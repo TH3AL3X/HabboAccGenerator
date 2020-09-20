@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bot Habbo", "Bot Habbo\Bot Habbo.pyproj", "{55681526-07AD-4D5F-AA8E-E90284964D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55681526-07AD-4D5F-AA8E-E90284964D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55681526-07AD-4D5F-AA8E-E90284964D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55B91699-53F2-4545-8EE2-A816F9D9E862}
+	EndGlobalSection
+EndGlobal
